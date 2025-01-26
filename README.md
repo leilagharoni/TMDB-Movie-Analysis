@@ -1,8 +1,5 @@
 # TMDB Movie Analysis
 
-<a id='intro'></a>
-## Introduction
-
 ### Dataset Description 
 
 This dataset is from Kaggle: 5000 Movie Dataset and contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
